@@ -1,2 +1,6 @@
-# a-bunch-of-twinkies
-Кучка твиков от Кучки Неформалов
+# A Bunch Of Twinkies
+Всем здарова. Это кучка твиков от Кучки Неформалов для кастомизации, оптимизации и обеспечения максимальной анонимности и множество других твиков. Среди репозитория есть множество файлов cmd, bat и reg, которые помогут защитить вашу личность и скрыть ваши действия от посторонних глаз, сделать интерефейст приятнее и удобнее и т.д. Файлы были получены из различных областей, включая IT-спец. Денис Курец, MartyFiles и Pulse, сайтов: Flammlin и Winnote, также взял файлы из сборок от Flibustier и Revi OS. Я бы призвал всех обязательно запускать файлы от имени администратора, и в идеале перед запуском должна быть создана точка восстановления, но можно обойтись без этого и система будет хорошо работать.
+
+Hello everyone. This is a set of tweaks for customization, optimization and maximum anonymity, and many other tweaks. Among the repository there are many cmd, bat and reg files that will help protect your identity and hide your actions from prying eyes, make the interest more pleasant and convenient, etc. The files were obtained from various fields, including IT-spec. Denis Kurets, MartyFiles and Pulse, sites: Flammlin and Winnote, also took files from assemblies from Flibustier and Revi OS. I would urge everyone to run the files as an administrator, and ideally a restore point should be created before starting, but you can do without it and the system will work well.
+
+![img](https://github.com/scode18/a-bunch-of-twinkies/assets/98618381/b79d9b3e-d3e7-410e-b1df-6a61dc7a541c)
