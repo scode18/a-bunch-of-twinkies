@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\AllFileSystemObjects\shell\Windows.RibbonPermissionsDialog]
+"ExplorerCommandHandler"="{E2765AC3-564C-40F9-AC12-CD393FBAAB0F}"
+"CommandStateSync"=""
+"Icon"="ntshrui.dll,4"
+"Position"="Bottom"
